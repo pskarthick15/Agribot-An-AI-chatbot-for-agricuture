@@ -1,0 +1,235 @@
+version: "2.0"
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+- intent: goodbye
+  examples: |
+    - good afternoon
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+- intent: crop_entry
+  examples: |
+    - [carrot](crop)
+    - [potato](crop)
+    - [tomato](crop)
+    - [cucumber](crop)
+    - [Drumstick](crop)
+    - [cotton](crop)
+    - [rice](crop)
+    - [jute](crop)
+    - [chickpea](crop)
+    - [kidneybeans](crop)
+    - [pigeonpeas](crop)
+    - [mothbeans](crop)
+    - [mungbean](crop)
+    - [blackgram](crop)
+    - [lentil](crop)
+    - [pomegranate](crop)
+    - [banana](crop)
+    - [mango](crop)
+    - [grapes](crop)
+    - [watermelon](crop)
+    - [muskmelon](crop)
+    - [apple](crop)
+    - [orange](crop)
+    - [papaya](crop)
+    - [coconut](crop)
+    - [coffee](crop)
+    - [Rice](crop)
+- intent: state_entry
+  examples: |
+    - [Andhra Pradesh](location)
+    - [Talangana](location)
+    - [Assam](location)
+    - [Bihar](location)
+    - [Chandigarh](location)
+    - [Chhattisgarh](location)
+    - [Delhi](location)
+    - [Gujarat](location)
+    - [Haryana](location)
+    - [Punjab](location)
+    - [Rajasthan](location)
+    - [Maharashtra](location)
+    - [MP](location)
+    - [Karnataka](location)
+    - [Odisha](location)
+    - [West Bengal](location)
+    - [A.P.](location)
+    - [Tripura](location)
+    - [Kerala](location)
+    - kerala
+- intent: out_of_scope
+  examples: |
+    - When will farmers agitation end?
+    - is farmers bill fair?
+    - what is 2?
+    - Give me your whatsapp number
+    - What is your girlfriend name
+    - girlfriend
+- intent: ferti
+  examples: |
+    - /fertilizer
+    - /ferti_info
+    - fertilizer information
+- intent: add_data
+  examples: |
+    - i want to register data for cci
+    - add user data
+    - ask me questions for cci registration
+    - what information is required to register for cci
+    - register for cci
+- intent: recommend
+  examples: |
+    - crop_recommendation
+    - recommendation of crop
+- intent: statistics
+  examples: |
+    - crop statistics
+    - /statistics
+- intent: about_us
+  examples: |
+    - we are agri helpers
+    - agri helpers
+    - agro helpers
+- intent: agribot
+  examples: |
+    - /agribot
+- intent: nitrogen_entry
+  examples: |
+    - [N_10](nitrogen)
+    - [N_20](nitrogen)
+    - [N_30](nitrogen)
+    - [N_40](nitrogen)
+    - [N_50](nitrogen)
+    - [N_60](nitrogen)
+    - [N_70](nitrogen)
+    - [N_80](nitrogen)
+    - [N_90](nitrogen)
+    - [N_100](nitrogen)
+    - [N_110](nitrogen)
+    - [N_120](nitrogen)
+- intent: phosphorous_entry
+  examples: |
+    - [P_10](phosphorous)
+    - [P_20](phosphorous)
+    - [P_30](phosphorous)
+    - [P_40](phosphorous)
+    - [P_50](phosphorous)
+    - [P_60](phosphorous)
+    - [P_70](phosphorous)
+    - [P_80](phosphorous)
+    - [P_90](phosphorous)
+    - [P_100](phosphorous)
+    - [P_110](phosphorous)
+    - [P_115](phosphorous)
+    - [P_120](phosphorous)
+    - [P_125](phosphorous)
+    - [P_130](phosphorous)
+- intent: potassium_entry
+  examples: |
+    - [K_10](potassium)
+    - [K_20](potassium)
+    - [K_30](potassium)
+    - [K_40](potassium)
+    - [K_50](potassium)
+    - [K_60](potassium)
+    - [K_70](potassium)
+    - [K_80](potassium)
+    - [K_90](potassium)
+    - [K_100](potassium)
+    - [K_200](potassium)
+    - [K_120](potassium)
+- intent: power_hydrogen
+  examples: |
+    - [ph_6.50](ph)
+    - [ph_7.03](ph)
+    - [ph_7.84](ph)
+    - [ph_6.28](ph)
+    - [ph_5.28](ph)
+    - [ph_7.59](ph)
+    - [ph_7.70](ph)
+    - [ph_6.47](ph)
+    - [ph_6.43](ph)
+    - [ph_5.79](ph)
+    - [ph_7.98](ph)
+    - [ph_7.35](ph)
+    - [ph_5.65](ph)
+    - [ph_7.89](ph)
+    - [ph_6.78](ph)
+    - [ph_5.67](ph)
+    - [ph_6.75](ph)
+    - [ph_6.54](ph)
+    - [ph_4.62](ph)
+    - [ph_4.5](ph)
+    - [ph_30](phosphorous)
+    - [ph_20](ph)
+- intent: rainfall_entry
+  examples: |
+    - [rf_185.27](rainfall)
+    - [rf_233.13](rainfall)
+    - [rf_185.94](rainfall)
+    - [rf_221.11](rainfall)
+    - [rf_263.72](rainfall)
+    - [rf_63.72](rainfall)
+    - [rf_90.98](rainfall)
+    - [rf_85.57](rainfall)
+    - [rf_92.06](rainfall)
+    - [rf_93.09](rainfall)
+    - [rf_69.63](rainfall)
+    - [rf_130.06](rainfall)
+    - [rf_89.76](rainfall)
+    - [rf_260](rainfall)
+    - [rf_97.60](rainfall)
+    - [rf_87.60](rainfall)
+    - [rf_97.80](rainfall)
+    - [rf_150](rainfall)
+    - [rf_67](rainfall)
+    - [rf_70](rainfall)
+    - [rf_123](rainfall)
+    - [rf_20](rainfall)
+    - [rf_100](rainfall)
+- intent: cities
+  examples: |
+    - [chennai](city)
+    - [mumbai](city)
+    - [kolkata](city)
+    - [bangalore](city)
+    - [coimbatore](city)
+    - [trichy](city)
+    - [hyderabad](city)
+    - [vizag](city)
+    - [hubli](city)
+    - [dharwad](city)
+    - [kurnool](city)
+    - [kharagpur](city)
+    - [Chennai](city)
+- intent: price
+  examples: |
+    - crop price
+    - /price
+- intent: ferti_recommendation
+  examples: |
+    - /ferti_recommend
+    - ferti_recommend
+    - /ferti_recommendation
