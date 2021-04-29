@@ -55,6 +55,8 @@ are to be grown based on the state,soil ph value,rainfall,etc. so that a good yi
 
 <img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/demo_gifs/crop_recommend.gif" width="500" height="500">
 
+TO GET A BETTER INSIGHT OF OUR PROJECT PLEASE REFER TO THIS [LINK](https://github.com/pskarthick15/Agrosahakar-An-AI-Chatbot-for-Agriculture-Sector-master/tree/master/Project%20Report)
+
 ## THANK YOU
 * For visting my repository!!
 
