@@ -1,4 +1,4 @@
-***Step 1***:Clone our github repository into your desired location using the below link: https://github.com/kuluruvineeth/Agrosahakar 
+***Step 1***:Clone our github repository into your desired location using the below link: https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture 
 
 ***Step 2***: create a VM instance on any cloud platform such as aws, azure, GCP, heroku. 
 
@@ -72,6 +72,7 @@ Paste the JSON object into the file. Press Control + X to exit the editor, and c
 * Here, we’re using the rasa-sdk image to run our custom actions, and we’re specifying that the actions server will listen on port 5055. The actions server depends on the rasa-production service, which is responsible for running the trained model, parsing intent messages, and predicting actions.
 * Once you’ve saved the file, you can restart the Rasa X docker container and the assistant will be fully functional on Rasa X.
    **sudo docker-compose up -d**
+   
 ***Step 7***: Eureka!!! You have done the complete set up and are ready to use our chatbot. Feel free to share your comments in github.
 
 
