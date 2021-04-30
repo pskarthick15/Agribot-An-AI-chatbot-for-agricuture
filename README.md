@@ -14,14 +14,14 @@ are to be grown based on the state,soil ph value,rainfall,etc. so that a good yi
 
 ### Tools and Technologies
 <p float="left">
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/Tools_and_Technologies/aws.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/Tools_and_Technologies/jupyter-notebook.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/Tools_and_Technologies/rasa-x.jfif" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/Tools_and_Technologies/rasa.jfif" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/Tools_and_Technologies/scikit-learn.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/Tools_and_Technologies/telegram.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/Tools_and_Technologies/visual-studio-code.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;</br></br>
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/Tools_and_Technologies/ngrok.png" width="100" height="100" />
+<img src="https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture/tree/master/Tools_and_Technologies/aws.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture/tree/master/Tools_and_Technologies/jupyter-notebook.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture/tree/master/Tools_and_Technologies/rasa-x.jfif" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture/tree/master/Tools_and_Technologies/rasa.jfif" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture/tree/master/Tools_and_Technologies/scikit-learn.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture/tree/master/Tools_and_Technologies/telegram.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture/tree/master/Tools_and_Technologies/visual-studio-code.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;</br></br>
+<img src="https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture/tree/master/Tools_and_Technologies/ngrok.png" width="100" height="100" />
 </p>
 
 ### Primary Language used : **Python**
