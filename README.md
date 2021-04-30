@@ -27,7 +27,7 @@ are to be grown based on the state,soil ph value,rainfall,etc. so that a good yi
 ### Primary Language used : **Python**
 
 ### How to use our Chatbot
-* Follow the steps mentioned in this [file](https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture/blob/master/connect-this-repo.md) to clone this repository and use our **CHATBOT** **
+* Follow the steps mentioned in this [file](https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture/blob/master/connect-this-repo.md) to clone this repository and use our **CHATBOT**
 
 ### Screenshots of prototype in RASA X server
 <img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/images/rasax1.png">
