@@ -1,4 +1,4 @@
-# Agrosahakar - An AI Chatbot for Agriculture Sector
+# Agribot - An AI Chatbot for Agriculture Sector
 
 ### About the project
 
