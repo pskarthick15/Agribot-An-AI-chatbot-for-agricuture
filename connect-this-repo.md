@@ -24,7 +24,7 @@ In your GitHub repository, navigate to Settings>Deploy keys. Click the Add deplo
 **3.We’ll establish the connection between the Rasa X instance and GitHub repository by making a POST request to this Rasa X API endpoint.**
 
 **4.The JSON request body contains three pieces of information:**
-  * repository_url - The SSH URL for your GitHub repository, e.g. kuluruvineeth/Agrosahakar.git
+  * repository_url - The SSH URL for your GitHub repository, e.g. pskarthick15/Agribot-An-AI-chatbot-for-agriculture.git
   * To get the URL for your repo, click the Clone or download button on your GitHub repository and select the Use SSH link.
   * target_branch - The GitHub repository branch where Rasa X should push and pull changes, e.g. master
   * ssh_key - The private SSH key generated on your server.
