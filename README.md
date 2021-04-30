@@ -21,7 +21,7 @@ are to be grown based on the state,soil ph value,rainfall,etc. so that a good yi
 <img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/Tools_and_Technologies/scikit-learn.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/Tools_and_Technologies/telegram.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/Tools_and_Technologies/visual-studio-code.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;</br></br>
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/ngrok.png" width="100" height="100" />
+<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/ngrok.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Primary Language used : **Python**
